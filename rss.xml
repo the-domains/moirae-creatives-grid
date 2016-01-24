@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Moirae Creatives Grid]]></title>
         <description><![CDATA[Moirae Creatives Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moirae-creatives-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 05:29:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 05:35:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moirae-creatives-grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Grid Page]]></title>
-            <description><![CDATA[<article><h1>First Grid Page</h1><p>I'm really Leary if this is going to work</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77a90539d7e604ed27f900b8f6b6592e0d335a6b.jpg"></article>]]></description>
-            <link>undefinedfirst-grid-page/index.html</link>
+            <description><![CDATA[<article><h1>First Grid Page</h1><p>I'm really Leary if this is going to work</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/727987a82cc4eb83db27d993f466b87ba4a8a815.jpg"></article>]]></description>
+            <link>https://thegrid.ai/moirae-creatives-grid/first-grid-page/index.html</link>
             <guid isPermaLink="false">f35e4385-e358-477d-8f79-5269fd65af47</guid>
             <pubDate>Sun, 24 Jan 2016 05:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aa3e20d-a344-4ab1-9c23-a2d24a7f19cb.jpg">]]></description>
+            <link>https://thegrid.ai/moirae-creatives-grid/49f856fa-8c85-4787-ba09-baa209690ba8/index.html</link>
+            <guid isPermaLink="false">49f856fa-8c85-4787-ba09-baa209690ba8</guid>
+            <pubDate>Sun, 24 Jan 2016 05:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
