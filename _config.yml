@@ -1,7 +1,7 @@
 name: Moirae Creatives Grid
 favicon: null
-layout_spectrum: 0.41597
-typography_spectrum: 0.27068
+layout_spectrum: 1
+typography_spectrum: 0.71193
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1f2d38'
-    - '#e6e9e8'
-    - '#908f8a'
-    - '#875946'
-    - '#d1a791'
+    - '#34495b'
+    - '#e7eae9'
+    - '#8c8a85'
+    - '#c5a293'
+    - '#54717c'
   brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.30474320286884904
-  rhythmicContrast: 0.25
+  lightness: 0.6875
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
